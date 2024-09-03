@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b48bb717.css",
+    "main.js": "/static/js/main.b6550ca4.js",
+    "static/media/bird-3206278_1280.webp": "/static/media/bird-3206278_1280.78d56672006dfa8eb94b.webp",
+    "index.html": "/index.html",
+    "main.b48bb717.css.map": "/static/css/main.b48bb717.css.map",
+    "main.b6550ca4.js.map": "/static/js/main.b6550ca4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b48bb717.css",
+    "static/js/main.b6550ca4.js"
+  ]
+}

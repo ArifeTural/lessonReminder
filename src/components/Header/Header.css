@@ -1,0 +1,16 @@
+
+
+
+.Nav{
+   background:linear-gradient(to right, #FCF9F2 5.05804311774461%, 9.07960199004975%, #FDF9F6 13.101160862354892%, 17.330016583747927%, #FFF8F5 21.558872305140962%, 28.980099502487562%, #EEE5DE 36.401326699834165%, 45.06633499170813%, #F2EDF1 53.73134328358209%, 61.5257048092869%, #F2DDCC 69.32006633499171%, 80.0580431177446%, #FDFCDD 90.79601990049751%) !important ;
+   border-bottom: 8px solid whitesmoke;
+    
+}
+
+a{
+    color: rgb(121, 119, 155) !important;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: x-large !important;
+}
+

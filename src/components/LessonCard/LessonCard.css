@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&display=swap');
+
+Body{
+    background: 
+linear-gradient(to left, #E5DFAF 2.9982363315696645%, 15.343915343915343%, #F7F7F9 27.689594356261022%, 45.23809523809524%, #EEEDEB 62.78659611992945%, 81.39329805996472%, #CCBAAE 100%);  
+
+}
+
+.Container{
+   
+ 
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.11);
+    
+}
+
+.card{
+    margin-top: 20px;
+    width: 330px;
+    height: 150px;
+    background-color: #ccbaae00;
+    border:none;
+    display: flex;
+    flex-wrap: wrap
+  
+}
+.card img{
+    height: 100px;
+}
+
+.card p{
+    color: rgb(141, 110, 110);
+    font-family: "Baskervville SC", serif;
+    font-size: 0.9rem;
+}
+span{
+    color: rgb(29, 106, 106);
+}
